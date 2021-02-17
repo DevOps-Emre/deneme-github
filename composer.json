@@ -90,7 +90,7 @@
             "vendor/symfony/process/PhpExecutableFinder.php"
         ],
         "files": [
-            "/bootstrap/helpers.php"
+             "app/Utilities/helpers.php"
         ]
     },
     "autoload-dev": {
