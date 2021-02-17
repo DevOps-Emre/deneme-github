@@ -90,7 +90,7 @@
             "vendor/symfony/process/PhpExecutableFinder.php"
         ],
         "files": [
-            "bootstrap/helpers.php"
+            "/home/runner/work/deneme-github/deneme-github/vendor/composer/../../bootstrap/helpers.php"
         ]
     },
     "autoload-dev": {
