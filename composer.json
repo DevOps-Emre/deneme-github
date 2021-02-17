@@ -89,10 +89,9 @@
             "vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesStacks.php",
             "vendor/symfony/process/PhpExecutableFinder.php"
         ],
-        #"files": [
-        #   "app/Helpers/base.php",
-        #    "app/Helpers/metrics.php" 
-        #]
+        "files": [
+            "bootstrap/helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
