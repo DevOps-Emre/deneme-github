@@ -90,7 +90,7 @@
             "vendor/symfony/process/PhpExecutableFinder.php"
         ],
         "files": [
-            "app/Utilities/helpers.php"
+            "/home/runner/work/deneme-github/deneme-github/vendor/composer/../../app/Utilities/helpers.php"
         ]
     },
     "autoload-dev": {
